@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>cs.tariq</groupId>
 	<artifactId>SpringApp1</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1</version>
 	<name>SpringApp1</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
